@@ -2,11 +2,9 @@
 Ascii Pasta - the ultimate list of all the Lenny Faces ( ͡° ͜ʖ ͡°) to describe your mood whether it's Angry, Sexy, Confused, Nervous etc.
 
 
-(◣_◢) Angry
 
-<pre>
-(◣_◢) Angry
-</pre>
+<pre> More Lennys and Copy/Emoji pastas on our website </pre>
+https://asciipasta.com/ 
 
 # Donate
 Thank you for your support 😎👍
