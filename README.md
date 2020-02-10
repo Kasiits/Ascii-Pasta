@@ -3,7 +3,7 @@ Ascii Pasta - the ultimate list of all the Lenny Faces ( ͡° ͜ʖ ͡°) to desc
 
 
 
-<pre> More Lennys and Copy/Emoji pastas on our website </pre>
+<pre> You Can Find Hundreds of Lennys and Copy/Emoji pastas on our website </pre>
 https://asciipasta.com/ 
 
 # Donate
