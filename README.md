@@ -8,6 +8,28 @@ Ascii Pasta - the ultimate list of all the Lenny Faces ( ͡° ͜ʖ ͡°) to desc
 (◣_◢) Angry
 </pre>
 
+# Donate
+Thank you for your support 😎👍
+
+<a href="https://paypal.me/kasiits98?locale.x=en_US">
+<img src="https://i.imgur.com/NEc3uaD.png" alt="PayPal" height="36" width="100">
+</a><br/>
+
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4163KD)<br/>
+
+<a href="https://www.patreon.com/user?u=25907884">
+<img src="https://i.imgur.com/llkluoJ.png" alt="Patreon" height="30" width="140">
+</a><br/>
+
+<a href="https://commerce.coinbase.com/checkout/defd4d60-ed84-4dd1-b902-5ba776600230">
+<img src="https://i.imgur.com/egBfL5X.png" alt="Coinbase" height="70" width="170">
+</a><br/>
+
+<a href="https://www.buymeacoffee.com/Kasiits" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+
+
 Angry           |  Attack
 :-------------------------:|:-------------------------:
 (◣_◢)|  ━╤デ╦︻(▀̿̿Ĺ̯̿̿▀̿ ̿)
