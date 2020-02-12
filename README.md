@@ -14,15 +14,15 @@ https://asciipasta.com/
 </a>
 
 <p float="left">
- <a href="rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone1.png" height="540" width="260" /> </a>
-  <img src="https://asciipasta.com/assets/Phone2.png" height="540" width="260" />
-  <img src="https://asciipasta.com/assets/Phone3.png" height="540" width="260" />
+ <a href="http://rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone1.png" height="540" width="260" /> </a>
+ <a href="http://rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone2.png" height="540" width="260" /> </a>
+ <a href="http://rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone3.png" height="540" width="260" /> </a>
 </p>
 
 <p float="left">
-  <img src="https://asciipasta.com/assets/Phone4.png" height="540" width="260" />
-  <img src="https://asciipasta.com/assets/Phone5.png" height="540" width="260" />
-  <img src="https://asciipasta.com/assets/Phone6.png" height="540" width="260" />
+ <a href="http://rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone4.png" height="540" width="260" /> </a>
+ <a href="http://rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone5.png" height="540" width="260" /> </a>
+ <a href="http://rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone6.png" height="540" width="260" /> </a>
 </p>
 
 # Donate
