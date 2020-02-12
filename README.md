@@ -9,12 +9,12 @@ Ascii Pasta - the ultimate list of all the Lenny Faces ( ͡° ͜ʖ ͡°) to desc
 <pre> You Can Find Hundreds of Lennys and Copy/Emoji pastas on our website </pre>
 https://asciipasta.com/ 
 
-<a href="http://bit.ly/FlutterUI">
+<a href="rebrand.ly/asciipasta">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70" width="160">
 </a>
 
 <p float="left">
-  <img src="https://asciipasta.com/assets/Phone1.png" height="540" width="260" />
+ <a href="rebrand.ly/asciipasta"> <img src="https://asciipasta.com/assets/Phone1.png" height="540" width="260" /> </a>
   <img src="https://asciipasta.com/assets/Phone2.png" height="540" width="260" />
   <img src="https://asciipasta.com/assets/Phone3.png" height="540" width="260" />
 </p>
