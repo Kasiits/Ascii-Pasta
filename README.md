@@ -9,7 +9,7 @@ Ascii Pasta - the ultimate list of all the Lenny Faces ( ͡° ͜ʖ ͡°) to desc
 <pre> You Can Find Hundreds of Lennys and Copy/Emoji pastas on our website </pre>
 https://asciipasta.com/ 
 
-<a href="rebrand.ly/asciipasta">
+<a href="http://rebrand.ly/asciipasta">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70" width="160">
 </a>
 
